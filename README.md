@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Undergrad, Crafting with a Tech Palette</h3>
 
 - 👨‍💻 All of my projects are available at [ambujshukla.in](ambujshukla.in)
-- 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imambuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imambuj" height="30" width="40" /></a>
