@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am currently 🛠️ building [Hacktivspace](https://hacktivspace.com) and working as a SWE Intern at [Reliance Jio](https://www.jio.com). 💻
+I am currently 🛠️ building [Hacktivspace](https://hacktivspace.com) and working as a SWE Intern at [Reliance Jio](https://www.jio.com).  💻
 
 Previously, I was an 🧑‍💻 SDE Intern at [Brainvire](https://www.brainvire.com). I am an 📚 undergrad at IIIT Bhubaneswar, class of 2024.
 
-Feel free to visit my website at [ambujshukla.in](https://ambujshukla.in) or connect with me via [Linktree](https://linktr.ee/ambujshukla) to collaborate on exciting research on AI-Blockchain integrated systems. 🔬
+Feel free to visit my website at [ambujshukla.in](https://ambujshukla.in) or connect with me via [Linktree](https://linktr.ee/ambujshukla) to collaborate on exciting research on AI-Blockchain integrated systems.  🔬
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imambuj7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/imambuj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imambuj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtubr.com/@HacktivSpace) 
