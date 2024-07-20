@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently 🛠️ building [Hacktivspace](https://hacktivspace.com) and working as a SWE Intern at [Reliance Jio](https://www.jio.com). 💻
+
 Previously, I was an 🧑‍💻 SDE Intern at [Brainvire](https://www.brainvire.com). I am an 📚 undergrad at IIIT Bhubaneswar, class of 2024.
+
 Feel free to visit my website at [ambujshukla.in](https://ambujshukla.in) or connect with me via [Linktree](https://linktr.ee/ambujshukla) to collaborate on exciting research on AI-Blockchain integrated systems. 🔬
 
 ## 🌐 Socials:
